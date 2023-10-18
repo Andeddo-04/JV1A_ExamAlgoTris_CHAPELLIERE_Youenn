@@ -1,0 +1,3 @@
+Ce tris est considéré comme très lent car il faut comparer tout les éléments entre eux tant que la liste nt'est pas totalement triée.
+
+Il est possible d'avoir une idée de temps que j'estimerai entre 1 à n secondes en fonction de la taille de la liste, plus la liste sera grande plus il faudra du temps pour la triée.
